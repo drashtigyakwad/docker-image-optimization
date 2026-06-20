@@ -2,11 +2,6 @@
 
 ## Intern Details
 
-Intern ID:
-
-Full Name:
-
-No. of Weeks:
 
 Project Name:
 Docker Image Optimization
